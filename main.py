@@ -1,1 +1,1 @@
-dfcdssprint("Hola Mundo")
+print("Hola Mundo")
